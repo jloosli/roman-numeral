@@ -1,4 +1,4 @@
-export function latinToRoman(latin: number): string {
-    let result = ''
-    return result || '';
-}
+import latinToRoman from './latinToRoman';
+import romanToLatin from './romanToLatin';
+
+export {latinToRoman, romanToLatin};
