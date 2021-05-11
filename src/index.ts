@@ -1,4 +1,4 @@
-import latinToRoman from './latinToRoman';
-import romanToLatin from './romanToLatin';
+import latinToRoman from './latinToRoman'
+import romanToLatin from './romanToLatin'
 
-export {latinToRoman, romanToLatin};
+export { latinToRoman, romanToLatin }
